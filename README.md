@@ -88,6 +88,9 @@ In this project, I learned about Convolutional Neural Networks (CNNs) to classif
 
 ## Instructions <a name="introductions"></a>
 
+0. Run the following command in the app's directory to generate `dog_names.json` file if not exist.
+	`python dump_json.py`
+
 1. Run the following command in the app's directory to run your web app.
     `python run.py`
 
