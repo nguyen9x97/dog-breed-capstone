@@ -1,0 +1,11 @@
+{% extends "master.html" %}
+{% block title %}Results{% endblock %}
+
+{% block content %}
+<div>
+    <img class="center-block" src="{{ url_for('display_image', filename=filename) }}" width="600" height="400">
+</div>
+<div class="text-center">
+    <h3>{{ prediction }}</h3>
+</div>
+{% endblock %}
