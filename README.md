@@ -1,4 +1,5 @@
-# Disaster Response Pipeline Project
+### Data Scientist Nanodegree
+# Dog Breed Classification Project
 
 ### Table of Contents
 1. [Installation](#installation)
