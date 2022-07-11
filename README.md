@@ -99,7 +99,11 @@ In this project, I learned about Convolutional Neural Networks (CNNs) to classif
 
 4. The uploaded image will display with classification result, you can upload another image to classify dog breed.
 
-![alt text](images/instructor_2.PNG "Classification result")
+![alt text](images/instructor_2.PNG "Classification result - dog")
+
+![alt text](images/human_detected_result.PNG "Classification result - human")
+
+![alt text](images/not_human_dog_result.PNG "Classification result - could not detect")
 
 ## Licensing, Authors, Acknowledgements <a name="licensing"></a>
 Thanks Udacity for providing the project notebook.
