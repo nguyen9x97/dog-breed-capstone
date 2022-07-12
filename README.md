@@ -8,6 +8,10 @@
 4. [Introductions](#introductions)
 5. [Licensing, Authors, Acknowledgements](#licensing)
 
+The project report can be found in [Notebook Version](dog_app.ipynb) or [HTML Version](dog_app.html)
+
+Note: If you want to try out the Notebook, please download some required data as well as install some additional libraries as instructed in it (I ran it in workplace of this course using Python 3.6.3 with libraries provided by Udacity).
+
 ## Installation <a name="installation"></a>
 
 The code is tested using Python version 3.6.3. All necessary libraries are in `requirements.txt` file, run the following commands in project's root directory to install them.
@@ -22,6 +26,7 @@ In this project, I learned about Convolutional Neural Networks (CNNs) to classif
 3. Build a dog breed algorithm using InceptionV3 CNN (transfer learning) to classify the dog breed.
 
 ## File Descriptions <a name="files"></a>
+There are an available notebook [HERE](dog_app.ipynb) to showcase work related to this project Markdown cells were used to assist in walking through the thought process for individual steps.
 
 `- app`
 

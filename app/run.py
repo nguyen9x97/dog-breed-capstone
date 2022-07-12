@@ -49,7 +49,6 @@ def classify():
 
             return render_template("classify_result.html", filename=filename, prediction=prediction)
 
-    # This will render the go.html Please see that file.
     return redirect(url_for('index'))
 
 
